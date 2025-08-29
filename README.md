@@ -57,8 +57,8 @@ Exporters collect metrics and expose them for Prometheus.
 ## 📸 Screenshots
 
 
-![Grafana Dashboard](./screenshots/Grafana_application_health.png)  
-![Prometheus Targets](./screenshots/prometheus.png)
+![Grafana Dashboard](./Screenshots/Grafana_application_health.png)  
+![Prometheus Targets](./Screenshots/prometheus.png)
 
 ---
 
